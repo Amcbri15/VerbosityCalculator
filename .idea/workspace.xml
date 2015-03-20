@@ -294,6 +294,7 @@
     </option>
     <ignored-roots>
       <path value="$PROJECT_DIR$/VerbosityCalculator" />
+      <path value="$PROJECT_DIR$" />
     </ignored-roots>
   </component>
   <component name="XDebuggerManager">
